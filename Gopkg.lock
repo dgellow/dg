@@ -1,0 +1,7 @@
+memo = "2e34d09c263385ef5f6773a01051a762db87addda70c7e0e815b48db62fc5c7f"
+
+[[projects]]
+  name = "gopkg.in/urfave/cli.v1"
+  packages = ["."]
+  revision = "0bdeddeeb0f650497d603c4ad7b20cfe685682f6"
+  version = "v1.19.1"
